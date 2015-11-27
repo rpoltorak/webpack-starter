@@ -1,5 +1,5 @@
-require('./assets/css/bootstrap.css');
-require('./assets/scss/app.scss');
+import './assets/css/bootstrap.css';
+import './assets/scss/app.scss';
 
 import {log} from './app/common/log';
 
