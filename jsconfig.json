@@ -1,0 +1,6 @@
+//Visual Studio Code
+{
+	"compilerOptions": {
+		"target": "ES6"
+	}
+}

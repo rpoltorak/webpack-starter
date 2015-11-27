@@ -1,0 +1,41 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Webpack starter for JS (ES6) webapps",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server -d --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpoltorak/webpack-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "starter",
+    "javascript",
+    "js",
+    "es6",
+    "webapp"
+  ],
+  "author": "Remek Poltorak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpoltorak/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/rpoltorak/webpack-starter#readme",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "css-loader": "^0.23.0",
+    "file-loader": "^0.8.5",
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "node-sass": "^3.4.2",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.9"
+  }
+}

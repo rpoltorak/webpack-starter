@@ -1,2 +1,2 @@
 # webpack-starter
-Webpack starter for webapps
+Webpack starter for JS (ES6) webapps
