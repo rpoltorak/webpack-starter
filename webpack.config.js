@@ -46,6 +46,6 @@ module.exports = {
         ]
     },
     resolve: {
-        extensions: ['', '.js', '.ts']
+        extensions: ['', '.js']
     }
 };
